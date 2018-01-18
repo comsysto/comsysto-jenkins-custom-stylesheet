@@ -54,16 +54,17 @@ a:link {
 }
 
 .tabBar .tab {
-  background-color:#555 !important; 
+  background:#333 !important; 
   color:#fff !important
 }
 
 .tabBar .tab a {
-    border-color:#555 !important;
+  border-color:#555 !important;
+  background:#333 !important; 
 }
 
 .tabBar [type="radio"]:checked ~ {
-  background:#333 !important; 
+  background:#555 !important; 
   border-color:#555 !important;
 }
 
