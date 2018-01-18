@@ -6,6 +6,9 @@
 #breadcrumbBar {
   background-color:#333;
 }
+#breadcrumbBar, #footer-container, .top-sticker-inner {
+    background-color: #333;
+}
 
 #page-body {
   background-color:#333;
@@ -18,6 +21,10 @@
  
 table.stripped-odd tr:nth-child(2n+1) {
   background: transparent;
+}
+
+.bigtable th {
+ background-color:#555; 
 }
 
 .model-link {
