@@ -53,10 +53,8 @@ a:link {
     color: #fff !important;
 }
 
-.tabBar {
+.tabBar .tab {
   border-color:#555 !important;
   background-color:#555 !important; 
   color:#fff !important
-  
-  
 }
