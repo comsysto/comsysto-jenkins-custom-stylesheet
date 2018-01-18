@@ -54,9 +54,12 @@ a:link {
 }
 
 .tabBar .tab {
-  border-color:#555 !important;
   background-color:#555 !important; 
   color:#fff !important
+}
+
+.tabBar .tab a {
+    border-color:#555 !important;
 }
 
 .tabBar [type="radio"]:checked ~ {
