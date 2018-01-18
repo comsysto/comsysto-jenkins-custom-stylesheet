@@ -110,7 +110,7 @@ a:visited {
   border-bottom: none !important;
 }
 
-#footer {
+footer {
   background-color: #555!important; 
   border-top: 1px solid #555 !important;
   border-bottom: 1px solid #555 !important;
