@@ -59,6 +59,11 @@ a:link {
   color:#fff !important
 }
 
+.tabBar [type="radio"]:checked ~ {
+  background:#333 !important; 
+  border-color:#555 !important;
+}
+
 .tabBar .tab a.addTab {
     background: #333;
     border-color:#555 !important;
@@ -78,9 +83,7 @@ table.stripped tr:nth-child(2n) {
     background: none !important;
 }
 
-.tabBar [type="radio"]:checked ~ {
-  background-color:#333 !important; 
-}
+
 
 a:visited {
     color: #fff !important;
