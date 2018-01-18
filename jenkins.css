@@ -30,6 +30,10 @@ td {
  color:#fff !important; 
 }
 
+.jenkins-config {
+   background-color:#555 !important; 
+}
+
 .model-link {
   color: #fff !important;
   font-weight: bold !important;
