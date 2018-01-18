@@ -26,6 +26,9 @@ table.stripped-odd tr:nth-child(2n+1) {
 .bigtable th {
  background-color:#555 !important; 
 }
+.bigtable td {
+ color:#fff !important; 
+}
 
 .model-link {
   color: #fff !important;
@@ -40,4 +43,8 @@ table.stripped-odd tr:nth-child(2n+1) {
 
 table {
   color:#fff !important;
+}
+
+a:link {
+    color: #fff !important;
 }
