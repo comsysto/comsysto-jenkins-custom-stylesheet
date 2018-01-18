@@ -15,7 +15,7 @@
 }
 
 .pane-frame {
-  border-color: #333 !important;
+  border-color: #555 !important;
 }
 
  
@@ -67,6 +67,10 @@ a:link {
 
 table.stripped tr:nth-child(2n) {
     background: none !important;
+}
+
+.tabBar [type="radio"]:checked ~ {
+  background-color:#333 !important; 
 }
 
 a:visited {
