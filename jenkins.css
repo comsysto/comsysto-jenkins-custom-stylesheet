@@ -64,3 +64,11 @@ a:link {
   background-color:#555 !important; 
   color:#fff !important
 }
+
+table.stripped tr:nth-child(2n) {
+    background: none !important;
+}
+
+a:visited {
+    color: #fff !important;
+}
