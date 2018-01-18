@@ -2,7 +2,9 @@
 #header {
   background-color:#333;
 }
-
+body {
+  background-color:#333;
+}
 #breadcrumbBar {
   background-color:#333;
 }
