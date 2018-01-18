@@ -58,3 +58,9 @@ a:link {
   background-color:#555 !important; 
   color:#fff !important
 }
+
+.pane-header {
+  border-color:#555 !important;
+  background-color:#555 !important; 
+  color:#fff !important
+}
