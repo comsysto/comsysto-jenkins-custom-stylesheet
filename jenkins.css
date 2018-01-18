@@ -59,6 +59,15 @@ a:link {
   color:#fff !important
 }
 
+.tabBar .tab a.addTab {
+    background: #333;
+    border-color:#555 !important;
+}
+.tabBar .tab a.addTab:hover {
+    background: #000;
+    border-color:#555 !important;
+}
+
 .pane-header {
   border-color:#555 !important;
   background-color:#555 !important; 
@@ -87,3 +96,8 @@ a:visited {
   box-shadow:none !important;
   color:#fff !important;
 }
+
+#projectstatus .header {
+  border-bottom: none !important;
+}
+
