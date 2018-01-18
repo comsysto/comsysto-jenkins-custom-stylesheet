@@ -1,15 +1,21 @@
-/*
-see http://camalot.github.io/jenkins-dark-stylish/jenkins-dark.min.css
-*/
-#header {
-  background-color:#333;
-}
 
 #header {
   background-color:#333;
 }
+
+#breadcrumbBar {
+  background-color:#333;
+}
+
 #page-body {
   background-color:#777;
 }
 
+.pane-frame {
+  border-color: #333 !important;
+}
+
  
+table.stripped-odd tr:nth-child(2n+1) {
+  background: transparent;
+}
