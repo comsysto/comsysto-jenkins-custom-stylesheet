@@ -37,3 +37,7 @@ table.stripped-odd tr:nth-child(2n+1) {
   color: #fff !important;
   font-weight: bold !important;
 }
+
+table {
+  color:#fff !important;
+}
