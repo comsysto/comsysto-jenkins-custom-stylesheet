@@ -52,3 +52,11 @@ table {
 a:link {
     color: #fff !important;
 }
+
+.tabBar {
+  border-color:#555 !important;
+  background-color:#555 !important; 
+  color:#fff !important
+  
+  
+}
