@@ -72,3 +72,14 @@ table.stripped tr:nth-child(2n) {
 a:visited {
     color: #fff !important;
 }
+
+#visible-am-button {
+  background-color: #801515 !important;
+}
+
+#search-box {
+  background-color: #555 !important;
+  border:0 !important;
+  box-shadow:none !important;
+  color:#fff !important;
+}
