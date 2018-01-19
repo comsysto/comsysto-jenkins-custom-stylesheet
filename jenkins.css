@@ -1,3 +1,6 @@
+body.two-column #main-panel {
+    color: #fff !important;
+}
 
 #header {
   background-color:#333;
