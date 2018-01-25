@@ -104,6 +104,10 @@ a:visited {
     color: #fff !important;
 }
 
+#visible-am-list {
+  background-color:#777 !important;
+}
+
 #visible-am-button {
   background-color: #801515 !important;
 }
@@ -125,5 +129,7 @@ footer {
   border-bottom: 1px solid #555 !important;
   color: #fff !important;
 }
+
+
   
 
